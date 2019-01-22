@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Jkr2020"s Homepage
 
-You can use the [editor on GitHub](https://github.com/Jkr2020/Jkr2020.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# My First Game
+*This was a game that would put the values of a number in order from greatest to least.
+https://scratch.mit.edu/projects/246826105/
 
-### Markdown
+## My Second Game
+*This was a game that targeted the audience of preschoolers.
+https://scratch.mit.edu/projects/260185577/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
